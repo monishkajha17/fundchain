@@ -11,6 +11,6 @@
 </div>
 <br>
 <h1 align="center">Fund-Chain</h1>
-<img height = "500px" src = "(https://github.com/monishkajha17/fundchain/assets/109274817/6b9067c6-3cba-42dd-a0f6-f12f5ef8eb2a" alt = "Fund-Chain-Mockup">
+<img src = "https://github.com/monishkajha17/fundchain/assets/109274817/6b9067c6-3cba-42dd-a0f6-f12f5ef8eb2a" alt = "Fund-Chain-Mockup">
 
 
